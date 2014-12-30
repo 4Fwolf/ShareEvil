@@ -45,6 +45,10 @@ Mail: sasha.halchin@gmail.com
 ======================
  Change log
 ======================
+v4.6
+  - Fixed some errors
+  - New update system
+
 v4.5
   - Fixed errors in sharing
   - Fixed errors in saving changes
