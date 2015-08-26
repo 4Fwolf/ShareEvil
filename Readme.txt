@@ -1,7 +1,7 @@
 ======================
  License
 ======================
- * Copyright 2014 IICuX.
+ * Copyright 2015 IICuX.
  *
  * Licensed under the Apache License, Version 2.0 (the "License"); you may not
  * use this file except in compliance with the License. You may obtain a copy of
@@ -18,7 +18,7 @@
 ======================
  System requirements
 ======================
-  - Windows 7, 8, 8.1
+  - Windows 7, 8, 8.1, 10
   - Wifi module
   - Internet connection
 
@@ -45,6 +45,12 @@ Mail: sasha.halchin@gmail.com
 ======================
  Change log
 ======================
+v4.8
+  - Fixed update system
+  - Some fixes in sharing and creating system
+  - Added some checks for errors
+  - Added Windows 10 support
+
 v4.7
   - Fixed update system
   - Some fixes in sharing system
