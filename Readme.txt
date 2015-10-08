@@ -45,6 +45,12 @@ Mail: sasha.halchin@gmail.com
 ======================
  Change log
 ======================
+v5.0
+  - Added autorun app
+  - Some fixes in sharing and creating system
+  - Added some checks for errors and fixed some errors
+  - Added functions for adding in firewall exceptions
+
 v4.8
   - Fixed update system
   - Some fixes in sharing and creating system
