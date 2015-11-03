@@ -45,6 +45,11 @@ Mail: sasha.halchin@gmail.com
 ======================
  Change log
 ======================
+v6.0
+  - New design
+  - Many fixes in all functions
+  - Added settings
+
 v5.0
   - Added autorun app
   - Some fixes in sharing and creating system
