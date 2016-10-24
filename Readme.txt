@@ -45,6 +45,11 @@ Mail: sasha.halchin@gmail.com
 ======================
  Change log
 ======================
+v6.2
+  - Redesigned some controls
+  - Fixed some critical errors
+  - Improved logger
+  
 v6.0
   - New design
   - Many fixes in all functions
